@@ -1,0 +1,21 @@
+.tree-structure {
+    font-family: Arial, sans-serif;
+  }
+  
+  .tree-item {
+    margin-left: 20px;
+  }
+  
+  .tree-content {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .icon {
+    margin-right: 5px;
+  }
+  
+  .tree-label {
+    margin-left: 5px;
+  }
